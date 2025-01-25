@@ -3,6 +3,8 @@
 .ONESHELL:
 
 run: 
-	@echo "Running the program..."
+	@echo Running the program...
 	go run .
-	@echo "Program finished running."
+	@echo.
+	@echo.
+	@echo Program finished running.
